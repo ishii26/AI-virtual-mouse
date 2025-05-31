@@ -14,7 +14,7 @@ Raise both index and middle fingers close together to perform a left click.
 
 #### Drag and Drop:
 
-Pinch (thumb + index finger) to click and hold, then move hand to drag; release pinch to drop.
+Pinch (thumb + index finger) to click and hold then move hand to drag, release pinch to drop.
 
 #### Right Click:
 
